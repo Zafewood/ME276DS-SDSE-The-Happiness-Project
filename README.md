@@ -2,6 +2,18 @@
 
 Project modeling and predicting a country's happiness score from a diverse set of features
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Installation](#installation)
+  - [Packages](#packages)
+  - [Environmental Variables](#environmental-variables)
+- [Usage](#usage)
+  - [Data preprocessing](#data-preprocessing)
+  - [Data analysis](#data-analysis)
+
+## Introduction
+
 ## Installation
 
 To be able to run the project, you need to have Python installed on your machine. You can download Python from [here](https://www.python.org/downloads/).
@@ -10,7 +22,8 @@ The steps to install and run the project are as follows:
 
 1. Clone the repository
 2. Install the required packages
-3. Run the jupyter notebooks
+3. Setup environmental variables
+4. Run the jupyter notebooks
 
 ### Packages
 
@@ -41,3 +54,22 @@ pip3 install -r requirements.txt #mac
 ```
 
 Select the virtual environment as the Python interpreter in the jupyter notebook.
+
+### Environmental Variables
+
+Create a `.env` file in the root directory of the project and add the following variables:
+
+```bash
+KAGGLE_USERNAME=your_kaggle_username
+KAGGLE_KEY=your_kaggle_key
+```
+
+## Usage
+
+### Data preprocessing
+
+### Data analysis
+
+## Conclusion
+
+## Contributors
