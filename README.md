@@ -27,6 +27,8 @@ The steps to install and run the project are as follows:
 
 ### Packages
 
+A python version compatible with tensorflow is required to run the project.
+
 Packages needed for running project can be found in the `requirements.txt` file. To install all packages, create a virtual environment and run the following command:
 
 **Creating virtual environment:**
