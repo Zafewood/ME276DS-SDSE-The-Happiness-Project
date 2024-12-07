@@ -9,14 +9,14 @@ Project modeling and predicting a country's happiness score from a diverse set o
   - [Packages](#packages)
   - [Environmental Variables](#environmental-variables)
 - [Usage](#usage)
-  - [Data preprocessing](#data-preprocessing)
-  - [Data analysis](#data-analysis)
+- [Conclusion](#conclusion)
+- [Contributors](#contributors)
 
 ## Introduction
 
 ## Installation
 
-To be able to run the project, you need to have Python installed on your machine. You can download Python from [here](https://www.python.org/downloads/).
+To be able to run the project, you need to have Python installed on your machine.
 
 The steps to install and run the project are as follows:
 
@@ -26,6 +26,8 @@ The steps to install and run the project are as follows:
 4. Run the jupyter notebooks
 
 ### Packages
+
+A python version compatible with tensorflow is required to run the project.
 
 Packages needed for running project can be found in the `requirements.txt` file. To install all packages, create a virtual environment and run the following command:
 
@@ -66,10 +68,23 @@ KAGGLE_KEY=your_kaggle_key
 
 ## Usage
 
-### Data preprocessing
+The project is divided into two main parts:
 
-### Data analysis
+- Data preprocessing
+- Data analysis
+
+1. To run the project first activate the virtual environment and then run the jupyter notebook.
+2. Then run through data_preprocessing.ipynb notebook in order to generate the needed data (if not already present) and then run the data_analysis.ipynb notebook to analyze the data and train the model.
+3. Read the detailed report for interpretation of the results and metholody.
 
 ## Conclusion
 
+The conclusion of the project can be read in the report.
+
 ## Contributors
+
+- [Trygve Nummedal Os](https://github.com/Zafewood)
+- [Christian Veiby](https://github.com/christianveiby)
+- Ebba Maja Olsson
+- Annette Gjersøyen
+- Emma Benum
