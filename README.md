@@ -9,7 +9,7 @@ Project modeling and predicting a country's happiness score from a diverse set o
   - [Packages](#packages)
   - [Environmental Variables](#environmental-variables)
 - [Usage](#usage)
-- [Conclusion](#conclusion)
+- [Report](#report)
 - [Contributors](#contributors)
 
 ## Introduction
@@ -77,14 +77,16 @@ The project is divided into two main parts:
 2. Then run through data_preprocessing.ipynb notebook in order to generate the needed data (if not already present) and then run the data_analysis.ipynb notebook to analyze the data and train the model.
 3. Read the detailed report for interpretation of the results and metholody.
 
-## Conclusion
+## Report
 
-The conclusion of the project can be read in the report.
+Details about the background, data, methodology, results, and conclusion can be found in the [report](/Project%20Report.pdf).
 
 ## Contributors
 
 - [Trygve Nummedal Os](https://github.com/Zafewood)
+- [Ebba Maja Olsson](https://github.com/ebbaolss)
 - [Christian Veiby](https://github.com/christianveiby)
-- Ebba Maja Olsson
 - Annette Gjersøyen
 - Emma Benum
+
+Github repository: [ME276DS-SDSE-The-Happiness-Project](https://github.com/Zafewood/ME276DS-SDSE-The-Happiness-Project)
